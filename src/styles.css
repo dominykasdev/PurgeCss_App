@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+textarea {
+  padding: 2.5%;
+  text-align: left;
+  border: 1px solid;
+  width: 95%;
+  height: 70vh;
+}

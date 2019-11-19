@@ -1,0 +1,161 @@
+.container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.containerHeader {
+  position: absolute;
+  width: 90%;
+  margin: 0 5% 20px;
+}
+
+.inline {
+  display: inline;
+}
+
+.tab {
+  position: relative;
+  width: 15%;
+  padding: 5px 2.5%;
+  color: #fff;
+}
+
+#tab1 {
+  background-color: teal;
+}
+
+#tab2 {
+  background-color: teal;
+}
+
+#tab3 {
+  background-color: teal;
+}
+
+#tab4 {
+  background-color: teal;
+}
+
+#tab5 {
+  background-color: teal;
+}
+
+#tab6 {
+  background-color: teal;
+}
+
+.blue {
+  background-color: #0606c1;
+}
+
+.grey {
+  background-color: #666;
+}
+
+.green {
+  background-color: #58c106;
+}
+
+.red {
+  background-color: #c10606;
+}
+
+.yellow {
+  background-color: #f6e21c;
+}
+
+.black {
+  background-color: #000;
+}
+
+.containerBody {
+  width: 95%;
+  margin: 0 2.5%;
+}
+
+.font {
+  color: #333;
+  font-size: 14px;
+}
+
+.font span {
+  color: #c10606;
+}
+
+.font3 {
+  color: #333;
+  font-size: 16px;
+}
+
+.col1 {
+  margin: 5px 0;
+  width: 8.3%;
+}
+
+.col2 {
+  margin: 5px 0;
+  width: 16.6%;
+}
+
+.col3 {
+  margin: 5px 0;
+  width: 24.96%;
+}
+
+.col4 {
+  margin: 5px 0;
+  width: 33.26%;
+}
+
+.col5 {
+  margin: 5px 0;
+  width: 41.56%;
+}
+
+.col6 {
+  margin: 5px 0;
+  width: 50%;
+}
+
+.col7 {
+  margin: 5px 0;
+  width: 58.3%;
+}
+
+.col8 {
+  margin: 5px 0;
+  width: 66.6%;
+}
+
+.col9 {
+  margin: 5px 0;
+  width: 74.9%;
+}
+
+.col10 {
+  margin: 5px 0;
+  width: 83.2%;
+}
+
+.col11 {
+  margin: 5px 0;
+  width: 91.5%;
+}
+
+.col12 {
+  margin: 5px 0;
+  width: 100%;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.bold {
+  font-weight: bold;
+}
